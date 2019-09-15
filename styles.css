@@ -1,0 +1,37 @@
+  body {
+    background-color: #fcf9ea;
+    font-family: 'Roboto Mono', monospace;
+    color:#f8a978;
+  }
+/* horizontal rule */
+  hr {
+    border-style: dotted none none none;
+    border-color: #f8a978;
+    border-width: 5px;
+    width: 5%;
+  }
+  /* link*/
+  a {
+    color:#ffc5a1;
+  }
+
+  /* mouse over link */
+a:hover {
+  color: hotpink;
+}
+
+  img {
+    height: auto;
+  }
+  h1 {
+    color: #badfdb;
+    size: 36px;
+    font-family: monospace;
+    font-weight:200;
+  }
+ h3 {
+   color: #badfdb;
+   size: 36px;
+   font-family: monospace;
+   font-weight:200;
+ }
